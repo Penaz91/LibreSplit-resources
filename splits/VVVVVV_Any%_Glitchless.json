@@ -1,0 +1,57 @@
+{
+  "title": "VVVVVV ANY% Glitchless",
+  "attempt_count": 0,
+  "finished_count": 0,
+  "splits": [
+    {
+      "title": "Space Station (Part 1)",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "Space Station (Part 2)",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+        "title": "The Tower",
+        "time": "0.000000",
+        "best_time": "0.000000",
+        "best_segment": "0.000000"
+    },
+    {
+      "title": "Intermission 1",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "Warp Zone",
+      "time": "4:11.000000",
+      "best_time": "4:08.000000",
+      "best_segment": "2:44.000000"
+    },
+    {
+      "title": "Intermission 2 (The gravitron)",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "The Laboratory",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    },
+    {
+      "title": "Finale",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
+    }
+  ],
+  "width": 400,
+  "height": 600
+}
